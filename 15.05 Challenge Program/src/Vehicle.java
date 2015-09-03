@@ -1,5 +1,5 @@
 
-public abstract class Vehicle implements Product{
+public abstract class Vehicle implements Product, test{
 	private String name;
 	private double cost;
 	Vehicle(String n, double c) {

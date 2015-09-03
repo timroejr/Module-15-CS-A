@@ -1,5 +1,5 @@
 
-public class Truck extends Vehicle{
+public class Truck extends Vehicle {
 
 	Truck(String n, double c) {
 		super(n, c);
